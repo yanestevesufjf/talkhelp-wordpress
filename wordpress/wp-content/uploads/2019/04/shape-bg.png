@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <!-- For IE -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!-- For Resposive Device -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Page not found &#8211; Saasland</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Saasland &raquo; Feed" href="http://saasland.droitthemes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Saasland &raquo; Comments Feed" href="http://saasland.droitthemes.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/saasland.droitthemes.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://saasland.droitthemes.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='http://saasland.droitthemes.com/wp-content/plugins/woocommerce/assets/css/blocks/style.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://saasland.droitthemes.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://saasland.droitthemes.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://saasland.droitthemes.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.6.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://saasland.droitthemes.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.6.1' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='tinvwl-css'  href='http://saasland.droitthemes.com/wp-content/plugins/ti-woocommerce-wishlist/assets/css/public.min.css?ver=1.11.1' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-fonts-css'  href='http://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%2C900&#038;subset' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/css/bootstrap.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-free-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/vendors/font-awesome/css/all.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-icon-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/vendors/themify-icon/themify-icons.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/vendors/animation/animate.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/vendors/owl-carousel/assets/owl.carousel.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/vendors/magnify-pop/magnific-popup.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='eleganticons-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/vendors/elagent/style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-main-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/css/style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-wpd-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/css/wpd-style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-gutenberg-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/css/saasland-gutenberg.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-root-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/style.css?ver=5.1.1' type='text/css' media='all' />
+<style id='saasland-root-inline-css' type='text/css'>
+
+                .new_footer_top .footer_bg {
+                    background: url(https://droitthemes.com/wp/saasland/wp-content/themes/saasland/assets/img/seo/footer_bg.png) no-repeat scroll center 0;
+                }
+                .new_footer_top .footer_bg .footer_bg_one {
+                    background: url(https://droitthemes.com/wp/saasland/wp-content/themes/saasland/assets/img/seo/car.png) no-repeat center center;
+                }
+                .new_footer_top .footer_bg .footer_bg_two {
+                    background: url(https://droitthemes.com/wp/saasland/wp-content/themes/saasland/assets/img/seo/bike.png) no-repeat center center;
+                }
+</style>
+<link rel='stylesheet' id='saasland-responsive-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/css/responsive.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-responsive2-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/css/responsive-2.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mCustomScrollbar-css'  href='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/vendors/scroll/jquery.mCustomScrollbar.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-fonticonpicker-icons-css'  href='http://saasland.droitthemes.com/wp-content/plugins/saasland-core/acf-fonticonpicker/icons/css/themify-icons.css?ver=5.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://saasland.droitthemes.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://saasland.droitthemes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://saasland.droitthemes.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.1" />
+<meta name="generator" content="WooCommerce 3.6.1" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" title="dynamic-css" class="options-output">.header_area .navbar .navbar-nav .menu-item a{color:#ffffff;}.header_area .navbar .navbar-nav .menu-item a:hover, .header_area .menu > .nav-item.active .nav-link, 
+                            .menu_six .menu > .nav-item.submenu .dropdown-menu .nav-item:hover > .nav-link,
+                            .menu_six .menu > .nav-item.submenu .dropdown-menu .nav-item.active > .nav-link,
+                            .menu_six .menu > .nav-item.submenu .dropdown-menu .nav-item:hover > .nav-link span.arrow_carrot-right,
+                            .menu_six .menu > .nav-item:hover .nav-link, .menu_six .menu > .nav-item.active .nav-link{color:#ffffff;}.header_area{background:transparent;}header_area .navbar .navbar-nav .menu-item{margin-top:0;margin-right:40px;margin-bottom:0;margin-left:0;}.header_area header.navbar_fixed .menu > .nav-item > .nav-link, header.header_area.navbar_fixed .navbar .navbar-nav .menu-item a{color:#051441;}
+                    .header_area .navbar_fixed .navbar .navbar-nav .menu-item a:hover, 
+                    .header_area .navbar_fixed .menu > .nav-item.active .nav-link,
+                    .header_area.navbar_fixed .menu_six .menu > .nav-item:hover > .nav-link,
+                    .menu_six .menu > .nav-item.submenu .dropdown-menu .nav-item:hover > .nav-link span.arrow_carrot-right,
+                    .menu_six .menu > .nav-item.submenu .dropdown-menu .nav-item.active > .nav-link, 
+                    .menu_six .menu > .nav-item.submenu .dropdown-menu .nav-item:hover > .nav-link,
+                    .header_area.navbar_fixed .menu_six .menu > .nav-item.active > .nav-link
+                {color:#5e2ced;}.header_area .navbar .btn_get{color:#5e2ced;}.header_area .navbar .btn_get{border-color:#ffffff;}.header_area .navbar .btn_get{background:#ffffff;}.header_area .navbar .btn_get:hover{color:#ffffff;}.header_area .navbar .btn_get:hover{border-color:#5e2ced;}.header_area .navbar .btn_get:hover{background:#5e2ced;}.navbar_fixed .header_area .navbar .btn_get:hover{border-color:#5e2ced;}.navbar_fixed.header_area .navbar .btn_get{border-color:#5e2ced;}.navbar_fixed.header_area .navbar .btn_get{color:#5e2ced;}.navbar_fixed .header_area .navbar .btn_get:hover{color:#ffffff;}.breadcrumb_area, .breadcrumb_area_two{padding-right:0;padding-left:0;}.blog .header_area .navbar .navbar-nav .menu-item a{color:#051441;}</style>    </head>
+
+    <body class="error404 wp-embed-responsive woocommerce-no-js tinvwl-theme-style not_logged_in elementor-default" data-spy="scroll" data-target=".navbar" data-offset="70">
+
+    
+<div id="preloader">
+    <div id="ctn-preloader" class="ctn-preloader">
+        <div class="animation-preloader">
+            <div class="spinner"></div>
+            <div class="txt-loading">
+                                        <span data-text-preloader="S" class="letters-loading">
+                            S                        </span>
+                                                <span data-text-preloader="A" class="letters-loading">
+                            A                        </span>
+                                                <span data-text-preloader="A" class="letters-loading">
+                            A                        </span>
+                                                <span data-text-preloader="S" class="letters-loading">
+                            S                        </span>
+                                                <span data-text-preloader="L" class="letters-loading">
+                            L                        </span>
+                                                <span data-text-preloader="A" class="letters-loading">
+                            A                        </span>
+                                                <span data-text-preloader="N" class="letters-loading">
+                            N                        </span>
+                                                <span data-text-preloader="D" class="letters-loading">
+                            D                        </span>
+                                    </div>
+                    </div>
+        <div class="loader">
+            <div class="row">
+                <div class="col-lg-3 loader-section section-left"><div class="bg"></div></div>
+                <div class="col-lg-3 loader-section section-left"><div class="bg"></div></div>
+                <div class="col-lg-3 loader-section section-right"><div class="bg"></div></div>
+                <div class="col-lg-3 loader-section section-right"><div class="bg"></div></div>
+            </div>
+        </div>
+    </div>
+</div>
+    <header class="header_area  header_stick">
+
+        
+        <nav class="navbar navbar-expand-lg menu_six">
+            <div class="container">                <a class="navbar-brand sticky_logo" href="http://saasland.droitthemes.com/">
+                                            <img src="https://droitthemes.com/wp/saasland/wp-content/themes/saasland/assets/img/logo.png" srcset="https://droitthemes.com/wp/saasland/wp-content/themes/saasland/assets/img/logo_default_retina.png 2x"
+                             alt="Saasland">
+                        <img src="https://droitthemes.com/wp/saasland/wp-content/themes/saasland/assets/img/logo2.png"
+                             srcset="https://droitthemes.com/wp/saasland/wp-content/themes/saasland/assets/img/logo_sticky_retina.png 2x" alt="Saasland">
+                                        </a>
+
+                
+                                    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
+                            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="menu_toggle">
+                                <span class="hamburger">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </span>
+                                <span class="hamburger-cross">
+                                    <span></span>
+                                    <span></span>
+                                </span>
+                            </span>
+                    </button>
+                
+                <div id="navbarSupportedContent" class="collapse navbar-collapse justify-content-center"><ul id="menu-main-menu" class="navbar-nav menu  ml-auto mr-auto"><li itemscope="itemscope"  id="menu-item-2397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2397 dropdown submenu nav-item mega_menu mega_menu_two"><a href="http://saasland.droitthemes.com/" class="nav-link dropdown-toggle" aria-expanded="false" role="button" aria-haspopup="true" data-toggle="dropdown">Home</a><div class="mega_menu_inner"> <ul class="dropdown-menu"> <li class="nav-item">
+    <ul class="dropdown-menu scroll">
+        
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/Prototyping_Tool.jpg" alt="
+Prototyping Tool
+">
+                            </span>
+                            <span class="text"> 
+Prototyping Tool
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/home-payment-processing/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home16.jpg" alt="
+Payment Processing
+">
+                            </span>
+                            <span class="text"> 
+Payment Processing
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-mail/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home9.jpg" alt="
+Email Client
+">
+                            </span>
+                            <span class="text"> 
+Email Client
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-startup/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home15.jpg" alt="
+Startup
+">
+                            </span>
+                            <span class="text"> 
+Startup
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-saas/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home17.jpg" alt="
+Classic Saas
+">
+                            </span>
+                            <span class="text"> 
+Classic Saas
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-software-dark/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home13.jpg" alt="
+Software (Dark)
+">
+                            </span>
+                            <span class="text"> 
+Software (Dark)
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-app-showcase/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home14.jpg" alt="
+App Showcase
+">
+                            </span>
+                            <span class="text"> 
+App Showcase
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-marketing/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home11.jpg" alt="
+Digital Marketing
+">
+                            </span>
+                            <span class="text"> 
+Digital Marketing
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-cloud/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home12.jpg" alt="
+Cloud Based Saas
+">
+                            </span>
+                            <span class="text"> 
+Cloud Based Saas
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-hr-management/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home4.jpg" alt="
+HR Management
+">
+                            </span>
+                            <span class="text"> 
+HR Management
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-crm-software/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home3.jpg" alt="
+CRM Software
+">
+                            </span>
+                            <span class="text"> 
+CRM Software
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/accounts-billing/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home1.jpg" alt="
+Accounts &amp; Billing
+">
+                            </span>
+                            <span class="text"> 
+Accounts &amp; Billing
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-digital-agency/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home5.jpg" alt="
+Digital Agency
+">
+                            </span>
+                            <span class="text"> 
+Digital Agency
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-project-management/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/home8.jpg" alt="
+Project Management
+">
+                            </span>
+                            <span class="text"> 
+Project Management
+ </span>
+                    </a>
+    </li>
+
+    
+
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/home-saas-2-slider/" class="item">
+            <span class="img">
+                                                    <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/saas2-slider.png" alt="
+Saas 02 (Slider)
+">
+                            </span>
+                            <span class="text"> 
+Saas 02 (Slider)
+ </span>
+                    </a>
+    </li>
+
+    
+
+    </ul>
+
+    </li> </ul> </div></li>
+<li itemscope="itemscope"  id="menu-item-2339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2339 dropdown submenu nav-item"><a href="#" class="nav-link">Pages  <span class="arrow_carrot-right"></span> </a>
+<ul role="menu" class=" dropdown-menu menu-depth-2nd" >
+	<li itemscope="itemscope"  id="menu-item-2340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2340 dropdown submenu nav-item"><a href="#" class="nav-link">Career  <span class="arrow_carrot-right"></span> </a>
+	<ul role="menu" class=" dropdown-menu dropdown-submenu menu-depth-3rd" >
+		<li itemscope="itemscope"  id="menu-item-2341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2341 nav-item"><a href="http://saasland.droitthemes.com/jobs/" class="nav-link">Job Listing </a></li>
+		<li itemscope="itemscope"  id="menu-item-2342" class="menu-item menu-item-type-post_type menu-item-object-job menu-item-2342 nav-item"><a href="http://saasland.droitthemes.com/job/senior-web-designer-team-lead/" class="nav-link">Job Details </a></li>
+		<li itemscope="itemscope"  id="menu-item-2343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2343 nav-item"><a href="https://droitthemes.com/wp/saasland/apply-to-job/?id=1449" class="nav-link">Apply to Job </a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope"  id="menu-item-2378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2378 dropdown submenu nav-item"><a href="#" class="nav-link">Services  <span class="arrow_carrot-right"></span> </a>
+	<ul role="menu" class=" dropdown-menu dropdown-submenu menu-depth-3rd" >
+		<li itemscope="itemscope"  id="menu-item-2379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2379 nav-item"><a href="http://saasland.droitthemes.com/our-services-01/" class="nav-link">Service 01 </a></li>
+		<li itemscope="itemscope"  id="menu-item-2380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2380 nav-item"><a href="http://saasland.droitthemes.com/business-analytics/" class="nav-link">Service 02 </a></li>
+		<li itemscope="itemscope"  id="menu-item-2381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2381 nav-item"><a href="http://saasland.droitthemes.com/what-we-offer/" class="nav-link">Service 03 </a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope"  id="menu-item-3169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3169 nav-item"><a href="http://saasland.droitthemes.com/about-us/" class="nav-link">About us </a></li>
+	<li itemscope="itemscope"  id="menu-item-2344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2344 nav-item"><a href="http://saasland.droitthemes.com/our-process/" class="nav-link">Process </a></li>
+	<li itemscope="itemscope"  id="menu-item-2345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2345 nav-item"><a href="http://saasland.droitthemes.com/our-pricing/" class="nav-link">Pricing </a></li>
+	<li itemscope="itemscope"  id="menu-item-2346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2346 nav-item"><a href="http://saasland.droitthemes.com/team/" class="nav-link">Team </a></li>
+	<li itemscope="itemscope"  id="menu-item-2615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2615 nav-item"><a href="http://saasland.droitthemes.com/sign-up/" class="nav-link">Sign Up </a></li>
+	<li itemscope="itemscope"  id="menu-item-2347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2347 nav-item"><a href="http://saasland.droitthemes.com/sign-in/" class="nav-link">Sign In </a></li>
+	<li itemscope="itemscope"  id="menu-item-2348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2348 dropdown submenu nav-item"><a href="http://saasland.droitthemes.com/contact/" class="nav-link">Contact  <span class="arrow_carrot-right"></span> </a>
+	<ul role="menu" class=" dropdown-menu dropdown-submenu menu-depth-3rd" >
+		<li itemscope="itemscope"  id="menu-item-2349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2349 nav-item"><a href="http://saasland.droitthemes.com/contact/" class="nav-link">Contact 01 </a></li>
+		<li itemscope="itemscope"  id="menu-item-2350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2350 nav-item"><a href="http://saasland.droitthemes.com/contact-02/" class="nav-link">Contact  02 </a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope"  id="menu-item-2351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2351 nav-item"><a href="http://droitthemes.com/wp/saasland/404" class="nav-link">404 Error </a></li>
+</ul>
+</li>
+<li itemscope="itemscope"  id="menu-item-2352" class="mega_menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2352 dropdown submenu nav-item"><a href="http://saasland.droitthemes.com/portfolio-grid-2-columns/" class="nav-link">Portfolio  <span class="arrow_carrot-right"></span> </a>
+<ul role="menu" class=" dropdown-menu menu-depth-2nd" >
+	<li itemscope="itemscope"  id="menu-item-2353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2353 dropdown submenu nav-item"><a href="#" class="nav-link">Portfolio Grid  <span class="arrow_carrot-right"></span> </a>
+	<ul role="menu" class=" dropdown-menu dropdown-submenu menu-depth-3rd" >
+		<li itemscope="itemscope"  id="menu-item-2354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2354 nav-item"><a href="http://saasland.droitthemes.com/portfolio-grid-2-columns/" class="nav-link">Standard 2 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2355 nav-item"><a href="http://saasland.droitthemes.com/portfolio-grid-3-columns/" class="nav-link">Standard 3 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2356 nav-item"><a href="http://saasland.droitthemes.com/portfolio-grid-4-columns/" class="nav-link">Standard 4 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2357 nav-item"><a href="" class="nav-link">Gallery 2 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2358 nav-item"><a href="http://saasland.droitthemes.com/portfolio-grid-3-column-normal/" class="nav-link">Gallery 3 Columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2359 nav-item"><a href="http://saasland.droitthemes.com/portfolio-grid-4-column-normal/" class="nav-link">Gallery 4 columns </a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope"  id="menu-item-2360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2360 dropdown submenu nav-item"><a href="#" class="nav-link">Portfolio Masonry  <span class="arrow_carrot-right"></span> </a>
+	<ul role="menu" class=" dropdown-menu dropdown-submenu menu-depth-3rd" >
+		<li itemscope="itemscope"  id="menu-item-2361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2361 nav-item"><a href="http://saasland.droitthemes.com/portfolio-masonry-2-columns/" class="nav-link">Standard 2 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2362 nav-item"><a href="http://saasland.droitthemes.com/portfolio-masonry-3-columns/" class="nav-link">Standard 3 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2363 nav-item"><a href="http://saasland.droitthemes.com/portfolio-masonry-4-columns/" class="nav-link">Standard 4 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2364 nav-item"><a href="http://saasland.droitthemes.com/gallery-2-columns/" class="nav-link">Gallery 2 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2365 nav-item"><a href="http://saasland.droitthemes.com/gallery-3-columns/" class="nav-link">Gallery 3 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2366 nav-item"><a href="http://saasland.droitthemes.com/portfolio-normal-masonry-4-columns/" class="nav-link">Gallery 4 columns </a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope"  id="menu-item-2367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2367 dropdown submenu nav-item"><a href="#" class="nav-link">Portfolio Fluid  <span class="arrow_carrot-right"></span> </a>
+	<ul role="menu" class=" dropdown-menu dropdown-submenu menu-depth-3rd" >
+		<li itemscope="itemscope"  id="menu-item-2368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2368 nav-item"><a href="" class="nav-link">Standard 3 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369 nav-item"><a href="http://saasland.droitthemes.com/portfolio-fluid-4-column/" class="nav-link">Standard  4 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2370 nav-item"><a href="http://saasland.droitthemes.com/portfolio-fluid-normal-2-columns/" class="nav-link">Gallery 2 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2371 nav-item"><a href="" class="nav-link">Gallery 3 columns </a></li>
+		<li itemscope="itemscope"  id="menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2372 nav-item"><a href="http://saasland.droitthemes.com/portfolio-fluid-normal-4-column/" class="nav-link">Gallery 4 columns </a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope"  id="menu-item-2373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2373 dropdown submenu nav-item"><a href="#" class="nav-link">Project Detail  <span class="arrow_carrot-right"></span> </a>
+	<ul role="menu" class=" dropdown-menu dropdown-submenu menu-depth-3rd" >
+		<li itemscope="itemscope"  id="menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-2374 nav-item"><a href="http://saasland.droitthemes.com/portfolio/proin-tortor-orcus/" class="nav-link">Split left/right </a></li>
+		<li itemscope="itemscope"  id="menu-item-2375" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-2375 nav-item"><a href="" class="nav-link">Split right/left </a></li>
+		<li itemscope="itemscope"  id="menu-item-2376" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-2376 nav-item"><a href="http://saasland.droitthemes.com/portfolio/double-exposure/" class="nav-link">Image Gallery </a></li>
+		<li itemscope="itemscope"  id="menu-item-2377" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-2377 nav-item"><a href="http://saasland.droitthemes.com/portfolio/cozy-sphinx-waves/" class="nav-link">Classic Single Image </a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li itemscope="itemscope"  id="menu-item-2382" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-2382 dropdown submenu nav-item"><a href="http://saasland.droitthemes.com/blog/" class="nav-link">Blog  <span class="arrow_carrot-right"></span> </a>
+<ul role="menu" class=" dropdown-menu menu-depth-2nd" >
+	<li itemscope="itemscope"  id="menu-item-2383" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2383 nav-item"><a href="http://saasland.droitthemes.com/blog/" class="nav-link">Blog Listing </a></li>
+	<li itemscope="itemscope"  id="menu-item-3121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3121 nav-item"><a href="http://saasland.droitthemes.com/blog-grid/" class="nav-link">Blog Grid </a></li>
+	<li itemscope="itemscope"  id="menu-item-3390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3390 nav-item"><a href="http://saasland.droitthemes.com/blog-masonry/" class="nav-link">Blog Masonry </a></li>
+	<li itemscope="itemscope"  id="menu-item-2384" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2384 nav-item"><a href="http://saasland.droitthemes.com/interdum-luctus-accusamus-habitant-error-nostra-nostrum/" class="nav-link">Single Post </a></li>
+</ul>
+</li>
+<li itemscope="itemscope"  id="menu-item-2604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2604 dropdown submenu nav-item"><a href="http://saasland.droitthemes.com/shop/" class="nav-link dropdown-toggle" aria-expanded="false" role="button" aria-haspopup="true" data-toggle="dropdown">Shop</a><ul class="dropdown-menu mega_menu_three"><li class="nav-item">
+    <ul class="dropdown-menu">
+        
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/shop/" class="nav-link">
+            <span class="navdropdown_link">
+                                    <span class="navdropdown_icon">
+                        <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/01.png" alt=" Product Grid ">
+                    </span>
+                                <span class="navdropdown_content">
+                                            <h5>  Product Grid  </h5>
+                                                                <p> Product Grid Layout View </p>
+                                    </span>
+            </span>
+        </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/saasland/shop/?view=list" class="nav-link">
+            <span class="navdropdown_link">
+                                    <span class="navdropdown_icon">
+                        <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/02.png" alt=" Product List ">
+                    </span>
+                                <span class="navdropdown_content">
+                                            <h5>  Product List  </h5>
+                                                                <p> Product List Layout View </p>
+                                    </span>
+            </span>
+        </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/cart/" class="nav-link">
+            <span class="navdropdown_link">
+                                    <span class="navdropdown_icon">
+                        <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/03.png" alt=" Cart ">
+                    </span>
+                                <span class="navdropdown_content">
+                                            <h5>  Cart  </h5>
+                                                                <p> Product Cart Page </p>
+                                    </span>
+            </span>
+        </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/checkout/" class="nav-link">
+            <span class="navdropdown_link">
+                                    <span class="navdropdown_icon">
+                        <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/04.png" alt=" Checkout ">
+                    </span>
+                                <span class="navdropdown_content">
+                                            <h5>  Checkout  </h5>
+                                                                <p> Product Checkout Page </p>
+                                    </span>
+            </span>
+        </a>
+    </li>
+
+    
+
+
+    <li class="nav-item">
+        <a href="http://saasland.droitthemes.com/wishlist/" class="nav-link">
+            <span class="navdropdown_link">
+                                    <span class="navdropdown_icon">
+                        <img src="https://droitthemes.com/wp/saasland/wp-content/uploads/2019/04/05.png" alt=" Whishlist ">
+                    </span>
+                                <span class="navdropdown_content">
+                                            <h5>  Whishlist  </h5>
+                                                                <p> Product Wishlist Page </p>
+                                    </span>
+            </span>
+        </a>
+    </li>
+
+    
+
+    </ul>
+
+    </li></ul></li>
+<li itemscope="itemscope"  id="menu-item-3094" class="mega_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3094 dropdown submenu nav-item"><a href="#" class="nav-link">Elements  <span class="arrow_carrot-right"></span> </a>
+<ul role="menu" class=" dropdown-menu menu-depth-2nd" >
+	<li itemscope="itemscope"  id="menu-item-3111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3111 dropdown submenu nav-item"><a href="#" class="nav-link">Elements 01  <span class="arrow_carrot-right"></span> </a>
+	<ul role="menu" class=" dropdown-menu dropdown-submenu menu-depth-3rd" >
+		<li itemscope="itemscope"  id="menu-item-3107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3107 nav-item"><a href="http://saasland.droitthemes.com/meet-the-team/" class="nav-link">Team </a></li>
+		<li itemscope="itemscope"  id="menu-item-3103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3103 nav-item"><a href="http://saasland.droitthemes.com/our-integrations/" class="nav-link">Integrations </a></li>
+		<li itemscope="itemscope"  id="menu-item-3102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3102 nav-item"><a href="http://saasland.droitthemes.com/our-clients/" class="nav-link">Clients </a></li>
+		<li itemscope="itemscope"  id="menu-item-3096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3096 nav-item"><a href="http://saasland.droitthemes.com/our-subscribe/" class="nav-link">Subscribe </a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope"  id="menu-item-3112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3112 dropdown submenu nav-item"><a href="#" class="nav-link">Elements 02  <span class="arrow_carrot-right"></span> </a>
+	<ul role="menu" class=" dropdown-menu dropdown-submenu menu-depth-3rd" >
+		<li itemscope="itemscope"  id="menu-item-3097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3097 nav-item"><a href="http://saasland.droitthemes.com/call-to-action/" class="nav-link">Call To Action </a></li>
+		<li itemscope="itemscope"  id="menu-item-3098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3098 nav-item"><a href="http://saasland.droitthemes.com/our-tabs/" class="nav-link">Tabs </a></li>
+		<li itemscope="itemscope"  id="menu-item-3104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3104 nav-item"><a href="http://saasland.droitthemes.com/our-testimonial/" class="nav-link">Testimonial </a></li>
+		<li itemscope="itemscope"  id="menu-item-3105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3105 nav-item"><a href="http://saasland.droitthemes.com/video/" class="nav-link">Video </a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope"  id="menu-item-3113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3113 dropdown submenu nav-item"><a href="#" class="nav-link">Elements 03  <span class="arrow_carrot-right"></span> </a>
+	<ul role="menu" class=" dropdown-menu dropdown-submenu menu-depth-3rd" >
+		<li itemscope="itemscope"  id="menu-item-3106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3106 nav-item"><a href="http://saasland.droitthemes.com/our-carousels/" class="nav-link">Carousels </a></li>
+		<li itemscope="itemscope"  id="menu-item-3095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3095 nav-item"><a href="http://saasland.droitthemes.com/google-maps-2/" class="nav-link">Google Maps </a></li>
+		<li itemscope="itemscope"  id="menu-item-3100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3100 nav-item"><a href="http://saasland.droitthemes.com/google-maps/" class="nav-link">Contact Form </a></li>
+		<li itemscope="itemscope"  id="menu-item-3109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3109 nav-item"><a href="http://saasland.droitthemes.com/our-process/" class="nav-link">process </a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope"  id="menu-item-3114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3114 dropdown submenu nav-item"><a href="#" class="nav-link">Elements 04  <span class="arrow_carrot-right"></span> </a>
+	<ul role="menu" class=" dropdown-menu dropdown-submenu menu-depth-3rd" >
+		<li itemscope="itemscope"  id="menu-item-3168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3168 nav-item"><a href="http://saasland.droitthemes.com/features/" class="nav-link">Features </a></li>
+		<li itemscope="itemscope"  id="menu-item-3101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3101 nav-item"><a href="http://saasland.droitthemes.com/get-app/" class="nav-link">Get App </a></li>
+		<li itemscope="itemscope"  id="menu-item-3110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3110 nav-item"><a href="http://saasland.droitthemes.com/our-pricing/" class="nav-link">pricing </a></li>
+		<li itemscope="itemscope"  id="menu-item-3099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3099 nav-item"><a href="http://saasland.droitthemes.com/fun-fact/" class="nav-link">Fun Fact </a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul></div>
+    <div class="alter_nav search_exist mini_cart_exist">
+        <ul class="navbar-nav search_cart menu">
+
+                            <li class="nav-item search"><a class="nav-link search-btn" href="javascript:void(0);"><i class="ti-search"></i></a></li>
+            
+                            <li class="nav-item shpping-cart dropdown submenu">
+                    <a class="cart-btn nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="ti-shopping-cart"></i>
+                        <span class="num"> 0 </span>
+                    </a>
+                                    </li>
+                        </ul>
+    </div></div>        </nav>
+    </header>
+
+                <section class="error_area">
+            <img class="error_shap" src="http://saasland.droitthemes.com/wp-content/themes/saasland/assets/img/breadcrumb/banner_bg.png" alt="404">
+            <div class="container flex">
+                <div class="error_contain text-center">
+                    <div class="b_text">
+                        <h1 class="f_p w_color f_700">404</h1>
+                    </div>
+                    <h2 class="f_p f_400 w_color f_size_40">Page not found</h2>
+                    <p class="w_color f_400">We’re sorry, the page you have looked for does not exist in our database! Maybe  go to our home page   or try to use a search?</p>
+                    <a href="http://saasland.droitthemes.com/" class="about_btn btn_hover mt_40">
+                        Go Back to home Page                    </a>
+                </div>
+            </div>
+        </section>
+    
+    
+
+
+    <footer>
+        <div class="footer_bottom error_footer">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 col-md-5 col-sm-6">
+                        <p class="mb-0 f_400"> <p>© SaasLand Inc.. 2019 All rights reserved.</p>
+ </p>
+                    </div>
+                    <div class="col-lg-4 col-md-3 col-sm-6">
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12">
+                        <p>Made with <i class="icon_heart"></i> in <a href="#">DroitThemes</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+    <form class="search_boxs" role="search">
+        <div class="search_box_inner">
+            <div class="close_icon">
+                <i class="icon_close"></i>
+            </div>
+            <div class="input-group">
+                <input type="text" name="s" class="form_control search-input" placeholder="Search here" autofocus>
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary" type="button"><i class="icon_search"></i></button>
+                </div>
+            </div>
+        </div>
+    </form>
+    	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/plugins/saasland-core/assets/vendors/wow/wow.min.js?ver=1.1.3'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/plugins/saasland-core/assets/js/custom.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/plugins/saasland-core/assets/js/main.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/saasland.droitthemes.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/saasland.droitthemes.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_8783b066bf90c8384c875fe8038278c1","fragment_name":"wc_fragments_8783b066bf90c8384c875fe8038278c1","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tinvwl_add_to_wishlist = {"text_create":"Create New","text_already_in":"Product already in Wishlist","simple_flow":"","i18n_make_a_selection_text":"Please select some product options before adding this product to your wishlist.","tinvwl_break_submit":"No items or actions are selected.","tinvwl_clipboard":"Copied!","allow_parent_variable":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/plugins/ti-woocommerce-wishlist/assets/js/public.min.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/js/propper.js?ver=1.0'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/js/bootstrap.min.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/plugins/saasland-core/assets/vendors/sckroller/jquery.parallax-scroll.js?ver=1.0'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/vendors/owl-carousel/owl.carousel.min.js?ver=2.3.4'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/vendors/magnify-pop/jquery.magnific-popup.min.js?ver=1.1.0'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/vendors/scroll/jquery.mCustomScrollbar.concat.min.js?ver=3.1.13'></script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-content/themes/saasland/assets/js/custom-wp.js?ver=1.0'></script>
+<script type='text/javascript'>
+jQuery('.footer-widget .f_widget').removeClass('pl_70'); 
+
+        //<![CDATA[
+            jQuery(window).on('load', function() { // makes sure the whole site is loaded 
+                jQuery('#status').fadeOut(); // will first fade out the loading animation 
+                jQuery('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website. 
+                jQuery('body').delay(350).css({'overflow':'visible'});
+            })
+        //]]>
+jQuery('.widget_search').removeClass('widget_search').addClass('search_widget_two');
+</script>
+<script type='text/javascript' src='http://saasland.droitthemes.com/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+</body>
+</html>

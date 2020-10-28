@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: OnePage were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://amandanoronha.com.br/talk-help2
+Data file = /home/amand934/public_html/talk-help2/wp-content/uploads/2020/09/demo-content-import-file_2020-09-20__17-45-52.xml
+Widget file = /home/amand934/public_html/talk-help2/wp-content/themes/saasland/inc/demos/onepage/widgets.wie
+Customizer file = not defined!
+Redux files:
+saasland_opt -> /home/amand934/public_html/talk-help2/wp-content/themes/saasland/inc/demos/onepage/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Pesquisar - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Comentários - No Title - Widget already exists
+Arquivos - No Title - Imported
+Categorias - No Title - Imported
+Meta - No Title - Imported
+Recent Posts - No Title - Imported
+
+Shop sidebar : 
+
+Product Search - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Products - Products - Imported
+Product Categories - Product categories - Imported
+
+Footer widgets : 
+
+Texto - No Title - Imported
+Menu - About Us - Imported
+Menu - Workflow Solutions - Imported
+Menu - Team Solutions - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: saasland_opt finished successfully!
+
+---pt-ocdi/after_import---
+
